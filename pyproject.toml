@@ -6,8 +6,8 @@ authors = ["TAYLOR JOHNSON <TAYLOR.MCMINN@GMAIL.COM>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-requests = "^2.25.0"
 beautifulsoup4 = "^4.9.3"
+requests = "^2.25.0"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.8b1", allow-prereleases = true}
